@@ -6,6 +6,9 @@
 - Complete set of slides uploaded 
 - Rewrote week one labs to provide a starter for the capstone scaffolding
 
+### May 25
+- Rewrote week two labs to provide a starter for the capstone scaffolding
+
 
 
 
